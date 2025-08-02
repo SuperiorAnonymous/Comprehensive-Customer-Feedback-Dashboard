@@ -42,5 +42,3 @@ This project demonstrates **advanced Power BI features**, such as:
 - Interactive visuals
 
 📁 **File included**: `Data Analysis and Visualization Task.pbix`
-
-Add README with dashboard description

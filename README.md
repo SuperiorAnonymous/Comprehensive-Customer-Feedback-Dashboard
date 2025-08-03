@@ -1,4 +1,3 @@
-<img width="1063" height="626" alt="image" src="https://github.com/user-attachments/assets/8c9fa32a-780c-45a8-b466-8eaabbc529d4" />
 # Comprehensive Customer Feedback Dashboard
 
 This dashboard was developed in **Power BI** to analyze customer feedback comprehensively. The dataset integrates various metrics, such as:
@@ -43,3 +42,4 @@ This project demonstrates **advanced Power BI features**, such as:
 - Interactive visuals
 
 📁 **File included**: `Data Analysis and Visualization Task.pbix`
+<img width="1063" height="626" alt="image" src="https://github.com/user-attachments/assets/8c9fa32a-780c-45a8-b466-8eaabbc529d4" />
